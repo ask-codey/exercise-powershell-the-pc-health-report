@@ -1,0 +1,15 @@
+# Exercise: The PC Health Report
+#
+# Answer each question on its numbered line, after the ")". Write only the answer, like the example.
+#
+# Example: which command reads facts about this PC, such as its Windows version and its disks?
+# 0) Get-CimInstance
+
+# 1. In PowerShell, the registry is two drives. Which drive holds the settings of the person who is signed in?
+1)
+
+# 2. Which command lists the members of a local group, such as Administrators?
+2)
+
+# 3. On a new PC, which winget command installs every app listed in apps.json? (Write winget and the command's name.)
+3)
